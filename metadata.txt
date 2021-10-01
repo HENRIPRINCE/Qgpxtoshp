@@ -1,0 +1,35 @@
+[general]
+name=gpx_shp
+qgisMinimumVersion=2.0
+description=Tools to convert gpx files into shapefile. The advantages of this plugin are:
+	-group gpx files in a folder and subfolder
+	-converts them, then group them in a single shapefile file
+version=0.1
+next_version=0.2
+author=Bienvenue RAHOILIJAONA Developper IT - GIS Technician - DATA MANAGER
+email=henriprincetoky@gmail.com
+
+about= to convert gpx files to shapefile
+
+tracker=https://bien-geomatics.000webhostapp.com/qgis_plugins/qgis_plugins_index.php
+repository=https://bien-geomatics.000webhostapp.com/qgis_plugins/qgis_plugins_index.php
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=SIG GPX SHP DEV
+
+homepage=https://bien-geomatics.000webhostapp.com/index.html
+category=Vector
+# category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
